@@ -1,0 +1,15 @@
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.AssemblyInfoInputs.cache
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.AssemblyInfo.cs
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.csproj.CoreCompileInputs.cache
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.sourcelink.json
+D:\hotel_task\hotel_task\bin\Debug\net8.0\hotel_task.exe
+D:\hotel_task\hotel_task\bin\Debug\net8.0\hotel_task.deps.json
+D:\hotel_task\hotel_task\bin\Debug\net8.0\hotel_task.runtimeconfig.json
+D:\hotel_task\hotel_task\bin\Debug\net8.0\hotel_task.dll
+D:\hotel_task\hotel_task\bin\Debug\net8.0\hotel_task.pdb
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.dll
+D:\hotel_task\hotel_task\obj\Debug\net8.0\refint\hotel_task.dll
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.pdb
+D:\hotel_task\hotel_task\obj\Debug\net8.0\hotel_task.genruntimeconfig.cache
+D:\hotel_task\hotel_task\obj\Debug\net8.0\ref\hotel_task.dll
